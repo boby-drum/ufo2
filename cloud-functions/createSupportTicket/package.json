@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx functions-framework --target=createSupportTicket [--signature-type=http]"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "joi": "^17.9.2",
+    "nodemailer": "^6.9.3",
+    "promise-mysql": "^5.2.0"
+  }
+}

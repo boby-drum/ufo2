@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.h1 {
+    margin-top: 0;
+    color: #353841;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.h1 span {
+    color: #EE2E24;
+}
+
+.h2 {
+    color: #353841;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.h2 span {
+    color: #EE2E24;
+}
+
+.h3 {
+    color: #353841;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.h3 span {
+    color: #EE2E24;
+}
+
+.h4 {
+    color: #353841;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.h4 span {
+    color: #EE2E24;
+}
+
+.h5 {
+    color: #353841;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.h5 span {
+    color: #EE2E24;
+}
+
+.b4 {
+    color: #9DA2B0;
+    font-size: 16px;
+    font-weight: 400;
+}
+.b4 span {
+    font-weight: 400;
+    color: #353841;
+}
+
+.b5 {
+    color: #9DA2B0;
+    font-size: 14px;
+    font-weight: 400;
+}
+.b5 span {
+    font-weight: 600;
+    color: #EE2E24;
+}
+
+.b1 {
+    color: #353841;
+    font-size: 18px;
+    font-weight: 500;
+}
+.b1 span {
+    font-weight: 600;
+    color: #EE2E24;
+}
+
+.b2 {
+    color: #9DA2B0;
+    font-size: 18px;
+    font-weight: 400;
+}
+.b2 span {
+    font-weight: 400;
+    color: #EE2E24;
+}
+
+.b3 {
+    color: #9DA2B0;
+    font-size: 14px;
+    font-weight: 400;
+}
+.b3 span {
+    font-weight: 600;
+    color: #EE2E24;
+}
+
+.small {
+    color: #9DA2B0;
+    font-size: 15px;
+    font-weight: 300;
+}
